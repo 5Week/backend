@@ -1,0 +1,14 @@
+<form method = 'POST'>
+    {% csrf_token %}
+    <p>아이디</p><input name="username" type="text">
+    <p>비밀번호</p><input name="password" type="password">
+    <p></p><input type="submit" value="로그인">
+</form>
+
+{% if user.is_authenticated %}
+    <a href ="{% url 'accountapp:logout' %}">로그아웃</a>
+
+{% else %}
+    <a href = {% url 'accountapp:signup' %}>회원가입</a>
+
+{% endif %}
