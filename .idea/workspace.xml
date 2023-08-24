@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,6 +44,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\최숙자\PycharmProjects\pythonProject1\buketlist\accountapp\templates" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="buketlist" type="Python.DjangoServer" factoryName="Django server">
       <module name="buketlist" />
@@ -80,7 +85,18 @@
       <updated>1691044207524</updated>
       <workItem from="1691044208569" duration="2843000" />
       <workItem from="1691047098395" duration="8485000" />
-      <workItem from="1691569119169" duration="655000" />
+      <workItem from="1691569119169" duration="22472000" />
+      <workItem from="1691678604473" duration="754000" />
+      <workItem from="1691741803150" duration="673000" />
+      <workItem from="1691994145840" duration="2969000" />
+      <workItem from="1692003416918" duration="2650000" />
+      <workItem from="1692083589775" duration="5598000" />
+      <workItem from="1692165030569" duration="7891000" />
+      <workItem from="1692254856332" duration="4519000" />
+      <workItem from="1692259951733" duration="157000" />
+      <workItem from="1692260180405" duration="1554000" />
+      <workItem from="1692859658521" duration="13337000" />
+      <workItem from="1692879170942" duration="8000" />
     </task>
     <servers />
   </component>
