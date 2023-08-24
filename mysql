@@ -1,0 +1,6 @@
+show databases;
+use BUKETLIST;
+show tables;
+select * from accountapp_user;
+select * from board;
+drop database world;
